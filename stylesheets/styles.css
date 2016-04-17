@@ -162,6 +162,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: white;
 }
 
 header ul {
@@ -175,7 +176,7 @@ header ul {
 }
 
 header li {
-  width:89px;
+  width:134px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -212,9 +213,8 @@ strong {
   font-weight:700;
 }
 
-header ul li + li + li {
+header ul li + li {
   border-right:none;
-  width:89px;
 }
 
 header ul a strong {
@@ -246,6 +246,7 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+  z-index: -1;
 }
 
 @media print, screen and (max-width: 960px) {
