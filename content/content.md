@@ -40,7 +40,7 @@ Email: _alain (at) gamedatascience.org_
 **Africa Perianez**, Silicon Studio (Japan)  
 Email: _africa (at) gamedatascience.org_
 
-### Committee Members
+### Committee members
 **Alessandro Canossa**, Northeastern University (USA)  
 **Thomas Debeauvais**, University of California Irvine (USA)  
 **Benjamin Devienne**, Gameloft (Canada)  
