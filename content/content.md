@@ -32,7 +32,10 @@ Deployment of game data science in products
 - Game data science applied to game development
 
 ### Submission
-Submission information will be announced soon on this website as well as DSAA website.
+[https://easychair.org/conferences/?conf=dsaa2016](https://easychair.org/conferences/?conf=dsaa2016)  
+When you submit a paper, select the track "Special session".
+
+Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 
 
 ### Chairs
 **Alain Saas**, Silicon Studio (Japan)  
@@ -41,15 +44,4 @@ Email: _alain (at) gamedatascience.org_
 Email: _africa (at) gamedatascience.org_
 
 ### Committee members
-**Alessandro Canossa**, Northeastern University (USA)  
-**Thomas Debeauvais**, University of California Irvine (USA)  
-**Benjamin Devienne**, Gameloft (Canada)  
-**Anders Drachen**, Aalborg University (Denmark)  
-**Dan Dumitru**, Supercell (USA)  
-**Austin Frank**, Riot Games (USA)  
-**Alexandru Iosup**, Delft University of Technology (Netherlands)  
-**Kristian Kersting**, University of Dortmund (Germany)  
-**Kirsti Laurila**, Rovio Entertainment Ltd. (Finland)  
-**Julian Runge**, Wooga (Germany), Humboldt University of Berlin (Germany)  
-**Rafet Sifa**, Fraunhofer IAIS (Germany)  
-**Ben Weber**, Electronic Arts (USA)
+TBA
