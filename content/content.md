@@ -43,7 +43,7 @@ Email: _alain (at) gamedatascience.org_
 **Africa Perianez**, Silicon Studio (Japan)  
 Email: _africa (at) gamedatascience.org_
 
-### Committee Members
+### Program Committee
 
 _To Be Confirmed_
 
