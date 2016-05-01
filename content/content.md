@@ -32,7 +32,7 @@ Deployment of game data science in products
 - Game data science applied to game development
 
 ### Submission
-Please follow the same procedure and guidelines as in the [Main Track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session".  
+Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).  
 Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 
 
 ### Chairs
