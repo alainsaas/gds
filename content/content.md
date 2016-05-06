@@ -64,4 +64,4 @@ _To Be Confirmed_
 [DSAA 2016 Special Sessions Page](https://www.ualberta.ca/~dsaa16/specialsessions.html#GDS)  
 [Blog On Games n' Data](https://ongamesndata.wordpress.com/2016/05/03/dsaa-call-to-papers/)  
 [Gamasutra Event Calendar](http://www.gamasutra.com/calendar/calendar.php)  
-[WikiCFP](www.wikicfp.com/cfp/servlet/event.showcfp?eventid=54298)
+[WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=54298)
