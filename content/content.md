@@ -11,8 +11,7 @@ In this special session on Game Data Science we aim to bring together experts fr
 
 ### Topics of Interest
 General areas of interest to GDS 2016 include but are not limited to:
-
-Machine learning applied to game datasets  
+####Machine learning applied to game datasets
 - Advanced methods  
 - Dimensionality reduction and feature extraction  
 - Modeling of the player behavior and social interactions  
@@ -21,8 +20,7 @@ Machine learning applied to game datasets
 - Forecast of the impact of game and marketing events on player behavior  
 - Clustering of player profiles and activity  
 - Virality models
-
-Deployment of game data science in products  
+####Deployment of game data science in products
 - Big data architecture challenges  
 - Novel algorithms that scale with big datasets  
 - A/B testing of game data science features  
@@ -61,3 +59,9 @@ _To Be Confirmed_
 **Julian Runge**, Wooga (Germany), Humboldt University of Berlin (Germany)  
 **Rafet Sifa**, Fraunhofer IAIS (Germany)  
 **Ben Weber**, Electronic Arts (USA)
+
+### As Seen On
+[DSAA 2016 Special Sessions Page](https://www.ualberta.ca/~dsaa16/specialsessions.html#GDS)  
+[Blog On Games n' Data](https://ongamesndata.wordpress.com/2016/05/03/dsaa-call-to-papers/)  
+[Gamasutra Event Calendar](http://www.gamasutra.com/calendar/calendar.php)  
+[WikiCFP](www.wikicfp.com/cfp/servlet/event.showcfp?eventid=54298)
