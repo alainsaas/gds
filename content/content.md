@@ -33,9 +33,12 @@ General areas of interest to GDS 2016 include but are not limited to:
 Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).
 
 ####Highlights
-- Conference paper submissions should be limited to a maximum of ten (10) pages, in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).  
-- All paper submissions should be prepared for Double Blind reviewing. That is neither the reviewers are revealed nor the author information is disclosed.  
-- Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 
+- Conference paper submissions should be limited to a maximum of 10 pages, in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+- All paper submissions should be prepared for Double Blind reviewing. That is neither the reviewers are revealed nor the author information is disclosed.
+- All accepted papers will be published by IEEE and included in the IEEE Xplore Digital Library. The
+conference proceedings will be submitted for EI indexing through INSPEC by IEEE.
+- Top quality papers accepted and presented at the conference will be selected for extension and
+publication in the special issues of some international journals, including Journal of Data Science and Analytics.
 
 ### Chairs
 **Alain Saas**, Silicon Studio (Japan)  
