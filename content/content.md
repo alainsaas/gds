@@ -1,6 +1,6 @@
-###ACM/IEEE DSAA 2016
-##Call for Papers for a Special Session on
-##**Game Data Science (GDS 2016)**
+[//]: # (###ACM/IEEE DSAA 2016)
+[//]: # (##Call for Papers for a Special Session on)
+[//]: # (##**Game Data Science (GDS 2016)**)
 
 ### Aims and Scope
 In the past years, both traditional video game platforms and emerging mobile games have tended to become always connected to the Internet. This allows game developers to collect a huge amount of data in real time while maintaining an active relationship with the players. This recent revolution of the video-game industry creates a broad range of new challenges for both research and business applications. The current trend to include social features and in-app purchases to games, combined with the exceptional level of granularity of the data collected makes game datasets a unique source of information to observe and analyze human behavior, including social and consumer dynamics.
@@ -30,9 +30,9 @@ General areas of interest to GDS 2016 include but are not limited to:
 - Game data science applied to game development
 
 ### Submission
-Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).  
+Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).
 
-Highlights  
+####Highlights
 - Conference paper submissions should be limited to a maximum of ten (10) pages, in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).  
 - All paper submissions should be prepared for Double Blind reviewing. That is neither the reviewers are revealed nor the author information is disclosed.  
 - Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 

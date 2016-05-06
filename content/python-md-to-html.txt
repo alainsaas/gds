@@ -1,2 +1,2 @@
 pip install markdown
-python -m markdown content.md > content.html
+python -m markdown content.md > content.html && cat top.part.html content.html bottom.part.html > ../index.html
