@@ -33,7 +33,11 @@ Deployment of game data science in products
 
 ### Submission
 Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).  
-Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 
+
+Highlights  
+- Conference paper submissions should be limited to a maximum of ten (10) pages, in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).  
+- All paper submissions should be prepared for Double Blind reviewing. That is neither the reviewers are revealed nor the author information is disclosed.  
+- Accepted special session submissions will be published by IEEE and included into the IEEE Xplore Digital Library. 
 
 ### Chairs
 **Alain Saas**, Silicon Studio (Japan)  
