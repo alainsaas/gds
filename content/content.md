@@ -30,7 +30,7 @@ General areas of interest to GDS 2016 include but are not limited to:
 - Game data science applied to game development
 
 ### Submission
-Please follow the same procedure and guidelines as in the [main track](https://www.ualberta.ca/~dsaa16/cfpapers.html), but select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).
+Please follow the [special session papers guidelines](https://www.ualberta.ca/~dsaa16/cfSSpapers.html), and select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).
 
 ####Highlights
 - Conference paper submissions should be limited to a maximum of 10 pages, in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
@@ -47,14 +47,10 @@ Email: _alain (at) gamedatascience.org_
 Email: _africa (at) gamedatascience.org_
 
 ### Program Committee
-
-_To Be Confirmed_
-
 **Alessandro Canossa**, Northeastern University (USA)  
 **Thomas Debeauvais**, University of California Irvine (USA)  
 **Benjamin Devienne**, Gameloft (Canada)  
 **Anders Drachen**, Aalborg University (Denmark)  
-**Dan Dumitru**, Supercell (USA)  
 **Austin Frank**, Riot Games (USA)  
 **Alexandru Iosup**, Delft University of Technology (Netherlands)  
 **Kristian Kersting**, University of Dortmund (Germany)  
