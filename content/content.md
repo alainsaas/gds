@@ -37,6 +37,7 @@ Please follow the [special session papers guidelines](https://www.ualberta.ca/~d
 - All paper submissions should be prepared for Double Blind reviewing. That is neither the reviewers are revealed nor the author information is disclosed.
 - All accepted papers will be published by IEEE and included in the IEEE Xplore Digital Library. The
 conference proceedings will be submitted for EI indexing through INSPEC by IEEE.
+- Longer versions of papers on visualization could later be submitted to the [Special Issue on Visual Game Analytics of the Information Visualization Journal](https://sivga.wordpress.com).
 - Top quality papers accepted and presented at the conference will be selected for extension and
 publication in the special issues of some international journals, including Journal of Data Science and Analytics.
 
