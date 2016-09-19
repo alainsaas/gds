@@ -2,6 +2,20 @@
 [//]: # (##Call for Papers for a Special Session on)
 [//]: # (##**Game Data Science (GDS 2016)**)
 
+### Accepted Papers at GDS 2016
+Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics  
+_Christian Loh and I-Hung Li_  
+
+What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours  
+_Olivier Cavadenti, Victor Codocedo, Jean-Francois Boulicaut and Mehdi Kaytoue_  
+
+On The "Tiny yet Real Happiness" Phenomenon in The Mobile Games Market  
+_Po-Heng Chen, Yi-Pei Tu and Kuan-Ta Chen_  
+
+**Related Paper Accepted at [BBDA 2016](http://www.meng-jiang.com/bbda-dsaa16/index.html)**  
+Churn Prediction in Mobile Social Games: Towards a Complete Assessment Using Survival Ensembles  
+_Africa Perianez, Alain Saas, Anna Guitart and Colin Magne_
+
 ### Aims and Scope
 In the past years, both traditional video game platforms and emerging mobile games have tended to become always connected to the Internet. This allows game developers to collect a huge amount of data in real time while maintaining an active relationship with the players. This recent revolution of the video-game industry creates a broad range of new challenges for both research and business applications. The current trend to include social features and in-app purchases to games, combined with the exceptional level of granularity of the data collected makes game datasets a unique source of information to observe and analyze human behavior, including social and consumer dynamics.
 
