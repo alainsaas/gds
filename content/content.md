@@ -47,6 +47,8 @@ General areas of interest to GDS 2016 include but are not limited to:
 - Game data science applied to game development
 
 ### Submission
+** Submissions for GDS 2016 are closed. Stay tuned for future call for papers.**
+
 Please follow the [special session papers guidelines](https://www.ualberta.ca/~dsaa16/cfSSpapers.html), and select the track "Special session" on the [submission website](https://easychair.org/conferences/?conf=dsaa2016).
 
 ####Highlights
