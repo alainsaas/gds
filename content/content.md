@@ -6,10 +6,10 @@
 Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics  
 _Christian Loh and I-Hung Li_  
 
-[What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours](https://fex.insa-lyon.fr/get?k=7rTlZsRMAZ8vd8D4kqZ)  
+[What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours](files/GDS_DSAA2016-Cavadenti-MOBA.pdf)  
 _Olivier Cavadenti, Victor Codocedo, Jean-Francois Boulicaut and Mehdi Kaytoue_  
 
-On The "Tiny yet Real Happiness" Phenomenon in The Mobile Games Market  
+[On The "Tiny yet Real Happiness" Phenomenon in The Mobile Games Market](http://www.slideshare.net/PoHengChen/tiny-yet-real-happiness-in-mobile-games-market-dsaa-2016-game-data-science)  
 _Po-Heng Chen, Yi-Pei Tu and Kuan-Ta Chen_  
 
 **Related Paper Accepted at [BBDA 2016](http://www.meng-jiang.com/bbda-dsaa16/index.html)**  
