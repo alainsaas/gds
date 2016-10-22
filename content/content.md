@@ -2,6 +2,9 @@
 [//]: # (##Call for Papers for a Special Session on)
 [//]: # (##**Game Data Science (GDS 2016)**)
 
+The Game Data Science session was a great success at DSAA 2016.  
+Stay tuned for future call for papers.
+
 ### Accepted Papers at GDS 2016
 Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics  
 _Christian Loh and I-Hung Li_  
