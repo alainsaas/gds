@@ -6,14 +6,14 @@
 Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics  
 _Christian Loh and I-Hung Li_  
 
-What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours  
+[What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours](https://fex.insa-lyon.fr/get?k=7rTlZsRMAZ8vd8D4kqZ)  
 _Olivier Cavadenti, Victor Codocedo, Jean-Francois Boulicaut and Mehdi Kaytoue_  
 
 On The "Tiny yet Real Happiness" Phenomenon in The Mobile Games Market  
 _Po-Heng Chen, Yi-Pei Tu and Kuan-Ta Chen_  
 
 **Related Paper Accepted at [BBDA 2016](http://www.meng-jiang.com/bbda-dsaa16/index.html)**  
-Churn Prediction in Mobile Social Games: Towards a Complete Assessment Using Survival Ensembles  
+[Churn Prediction in Mobile Social Games: Towards a Complete Assessment Using Survival Ensembles](http://www.slideshare.net/alainsaas/churn-prediction-in-mobile-social-games-towards-a-complete-assessment-using-survival-ensembles)  
 _Africa Perianez, Alain Saas, Anna Guitart and Colin Magne_
 
 ### Aims and Scope
