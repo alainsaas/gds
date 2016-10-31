@@ -6,7 +6,7 @@ The Game Data Science session was a great success at DSAA 2016.
 Stay tuned for future call for papers.
 
 ### Accepted Papers at GDS 2016
-Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics  
+[Using players’ Gameplay Action-Decision Profiles to prescribe training: Reducing training costs with Serious Games Analytics](files/DSAA_GDS_2016_Loh_Li.pdf)  
 _Christian Loh and I-Hung Li_  
 
 [What did I do Wrong in my MOBA Game?: Mining Patterns Discriminating Deviant Behaviours](files/GDS_DSAA2016-Cavadenti-MOBA.pdf)  
